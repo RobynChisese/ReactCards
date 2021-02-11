@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata&display=swap");
+h1 {
+  font-family: Inconsolata, Helvetica, sans-serif;
+}
+h2 {
+  font-family: "Times New Roman", Helvetica, sans-serif;
+  text-align: center;
+}
+.Card {
+  width: 310px;
+  padding: 50px;
+  border: 1px solid black;
+  border-radius: 10%;
+  margin: 40px;
+  background-color: rgb(212, 199, 168);
+}
+
+p {
+  font-weight: bold;
+}
+img {
+  border-radius: 50%;
+}
